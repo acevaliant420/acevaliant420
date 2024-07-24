@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react.js, cloud computing.**
 
-- 📫 How to reach me **202211070@diu.iiitvadodara.ac.in**
+- 📫 How to reach me **rajatlovescloud@gmail.com**
 
 - ⚡ Fun fact **I play valorant**
 
